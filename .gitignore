@@ -259,3 +259,5 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/BethanysPieShop/wwwroot/lib/bootstrap
+/BethanysPieShop/wwwroot/lib/jquery
